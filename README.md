@@ -1,6 +1,6 @@
-## Lesson-2
+## Lesson-5
 
-Creating our first component, homepage and adding scss to help us with writing our styles
+Going over the concept of higher order components through use of the withRouter HOC from react-router-dom.
 
 # How to fork and clone
 
